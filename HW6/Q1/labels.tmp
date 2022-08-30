@@ -1,0 +1,36 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega32</DEVICE>
+ <WORKING_DIR>E:\uni\term7\MicroP\HW6\Q1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>E:\uni\term7\MicroP\HW6\Q1\program1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>E:\uni\term7\MicroP\HW6\Q1\program1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>E:\uni\term7\MicroP\HW6\Q1\program1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Round><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>11</LINE></Round>
+  <DISPLAY><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>58</LINE></DISPLAY>
+  <HERE><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>18</LINE></HERE>
+  <DECREMENT><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>33</LINE></DECREMENT>
+  <INCREMENT><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>26</LINE></INCREMENT>
+  <INC_YEKAN><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>40</LINE></INC_YEKAN>
+  <INC_DAHGAN><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>44</LINE></INC_DAHGAN>
+  <DEC_YEKAN><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>49</LINE></DEC_YEKAN>
+  <DEC_DAHGAN><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>53</LINE></DEC_DAHGAN>
+  <DELAY_DISP><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>66</LINE></DELAY_DISP>
+  <L4><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>68</LINE></L4>
+  <L5><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>69</LINE></L5>
+  <L6><FILE>E:\uni\term7\MicroP\HW6\Q1\program1.asm</FILE><LINE>70</LINE></L6>
+ </LABELS>
+</ASSEMBLER_INFO>
